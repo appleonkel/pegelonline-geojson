@@ -3,7 +3,7 @@ API-Wrapper for pegelonline api to provide geojson with Flask.
 The [documentation](https://www.pegelonline.wsv.de/webservice/dokuRestapi) at pegelonline is still valid. Only change the base url.
 To run the wrapper
 
-    $ export FLASK_APP=hello.py
+    $ export FLASK_APP=app.py
     $ flask run
 
 ## Example
